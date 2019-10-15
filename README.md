@@ -5,6 +5,8 @@ This is xhtmltopdf wrap api
 brew install dep
 dep ensure
 go run server.go
+
+go build server.go && ./server
 ```
 # Use
 ```
