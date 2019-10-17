@@ -2,7 +2,7 @@
 .DS_Store
 vendor
 static/pdf/
-./server
+server
 
 # Binaries for programs and plugins
 *.exe
